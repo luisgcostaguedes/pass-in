@@ -29,16 +29,8 @@ Se você deseja contribuir com o Pass.in, siga estes passos:
 
 Para executar o Pass.in localmente, siga estas etapas:
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/passin.git`.
+<!-- 1. Clone o repositório: `git clone https://github.com/seu-usuario/passin.git`.
 2. Entre no diretório do projeto: `cd passin`.
 3. Instale as dependências utilizando o Maven: `mvn install`.
 4. Configure o banco de dados com as informações necessárias.
-5. Execute a aplicação: `java -jar passin.jar`.
-
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-
----
-
-Esse README é apenas um exemplo básico. Certifique-se de incluir detalhes específicos sobre como configurar, executar e contribuir para o projeto à medida que ele for desenvolvido.
+5. Execute a aplicação: `java -jar passin.jar`. -->
